@@ -1,2 +1,1 @@
-# oracle_dba_study
-Study of Oracle database administration documentation.
+# :o: Study of Oracle Database Administration
