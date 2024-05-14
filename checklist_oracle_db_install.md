@@ -22,4 +22,5 @@
 15. Configuração do hostname no listener e no tnsnames (arquivos "listener.ora" e "tnsnames.ora", respectivamente), alteração do listener local no SQL*Plus e listener resetado;
 16. Teste feito no schema "human_resources", conectando-se com o usuário "HR" e fazendo um select na tabela employees com sucesso;
 17. Conexão com o banco da VM por meio do Oracle SQL Developer;
-18. Duas conexões salvas com o usuário "sys" (SYSDBA), uma no CDB e a outra no PDB. Uma conexão salva com o usuário "HR" no PDB.
+18. Duas conexões salvas com o usuário "sys" (SYSDBA), uma no CDB e a outra no PDB. Uma conexão salva com o usuário "HR" no PDB;
+19. Teste feito via SQL Developer com sucesso.
